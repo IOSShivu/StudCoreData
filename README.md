@@ -1,1 +1,8 @@
-# StudCoreData
+# StudCoreData![Screenshot 2021-12-18 at 4 49 49 PM 1](https://user-images.githubusercontent.com/89531054/146641119-d54f7c77-7cae-4dd2-99f8-c3c77d9d6c27.png)
+![Screenshot 2021-12-18 at 5 10 23 PM](https://user-images.githubusercontent.com/89531054/146641124-6570b5e5-5123-43bf-8e85-4013ebd71eeb.png)
+![Screenshot 2021-12-18 at 4 56 58 PM](https://user-images.githubusercontent.com/89531054/146641126-8ccf93a2-bf60-4fb7-8d12-0934be9ea2f4.png)
+![Screenshot 2021-12-18 at 5 11 43 PM](https://user-images.githubusercontent.com/89531054/146641127-2d950727-6d6c-4f40-ba52-17bafaaa0965.png)
+![Screenshot 2021-12-18 at 5 14 40 PM](https://user-images.githubusercontent.com/89531054/146641132-abae34b9-92fe-4ccb-979c-eb2b251c25e0.png)
+![Screenshot 2021-12-18 at 5 17 49 PM](https://user-images.githubusercontent.com/89531054/146641134-d8b4d8e1-5bd1-4628-bcf9-adf228ad150c.png)
+![Screenshot 2021-12-18 at 5 21 21 PM](https://user-images.githubusercontent.com/89531054/146641138-fc68685d-871f-4dcb-8910-78b4b90652f4.png)
+![Screenshot 2021-12-18 at 5 28 02 PM](https://user-images.githubusercontent.com/89531054/146641140-f710c65b-d1e2-462f-b87c-8be60edaf840.png)
